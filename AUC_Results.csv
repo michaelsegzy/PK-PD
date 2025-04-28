@@ -1,0 +1,25 @@
+"ID","FORM","AUC","Cmax","Tmax"
+"1","Cozaar (Reference)",18.24375,2.28,4
+"1","Cyclosartin (Test)",9.16,1.14,4
+"2","Cozaar (Reference)",20.83875,4.16,2
+"2","Cyclosartin (Test)",10.33,2.1,2
+"3","Cozaar (Reference)",22.4825,4.59,2
+"3","Cyclosartin (Test)",11.17625,2.27,2
+"4","Cozaar (Reference)",16.52625,2.55,2
+"4","Cyclosartin (Test)",8.2,1.29,2
+"5","Cozaar (Reference)",22.91125,6.43,0.5
+"5","Cyclosartin (Test)",11.38375,3.22,0.5
+"6","Cozaar (Reference)",20.45125,4.33,2
+"6","Cyclosartin (Test)",10.06625,2.16,2
+"7","Cozaar (Reference)",18.36125,3.12,1
+"7","Cyclosartin (Test)",9.28375,1.54,1
+"8","Cozaar (Reference)",17.49125,3.53,1
+"8","Cyclosartin (Test)",8.63875,1.77,1
+"9","Cozaar (Reference)",14.07,1.54,4
+"9","Cyclosartin (Test)",6.7725,0.75,4
+"10","Cozaar (Reference)",17.9025,3.6,0.5
+"10","Cyclosartin (Test)",9.0475,1.79,0.5
+"11","Cozaar (Reference)",17.415,2.23,2
+"11","Cyclosartin (Test)",8.43625,1.1,2
+"12","Cozaar (Reference)",20.37,3.63,2
+"12","Cyclosartin (Test)",10.31875,1.81,2

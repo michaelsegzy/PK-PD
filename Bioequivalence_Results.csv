@@ -1,0 +1,3 @@
+"Parameter","Point_Estimate","Lower_90CI","Upper_90CI","BE_Conclusion"
+"Cmax",49.8,49.51,50.08,"Not Bioequivalent"
+"AUC(0-t)",49.64,49.2,50.08,"Not Bioequivalent"

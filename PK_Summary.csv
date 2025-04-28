@@ -1,0 +1,3 @@
+"Formulation","n","Cmax_Mean","Cmax_SD","Cmax_CV","Tmax_Median","Tmax_Range","AUC_0_t_Mean","AUC_0_t_SD","AUC_0_t_CV","ke_Mean","ke_SD","Half_Life_Mean","Half_Life_SD","AUC_0_inf_Mean","AUC_0_inf_SD","AUC_0_inf_CV"
+"Cozaar (Reference)",12,3.5,1.31,37.48,2,"0.5 - 4",18.92,2.56,13.53,0.2571,0.1177,3.48,2.17,21.41,2.09,9.74
+"Cyclosartin (Test)",12,1.75,0.66,37.77,2,"0.5 - 4",9.4,1.32,14.09,0.2738,0.137,3.35,2.12,10.55,0.92,8.69
