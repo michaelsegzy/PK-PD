@@ -1,0 +1,71 @@
+=====================================================================
+INFLUENZA TREATMENT AND PROPHYLAXIS OUTCOMES - COMPLETE ANALYSIS
+Date: 2025-05-05 19:06:13 (UTC)
+Analysis by: michaelsegzy
+=====================================================================
+
+BASELINE SCENARIO
+----------------
+Oseltamivir 7.3% Treatment, 0.0% Prophylaxis:
+Total hospitalizations: 105.0 [99.7, 110.5]
+Total treated patients: 1053.56
+Total prophylaxis patients: 0.00
+
+ENHANCED SCENARIOS (30% COVERAGE)
+--------------------------------
+Baloxavir 30.0% Treatment, 30.0% Prophylaxis:
+Total hospitalizations: 81.6 [77.6, 85.5]
+Percentage reduction: 22.2% [16.8%, 27.5%]
+Total treated patients: 4260.06
+Total prophylaxis patients: 1278.02
+
+Oseltamivir 30.0% Treatment, 30.0% Prophylaxis:
+Total hospitalizations: 94.1 [89.5, 98.9]
+Percentage reduction: 10.3% [3.9%, 16.5%]
+Total treated patients: 4217.26
+Total prophylaxis patients: 1265.18
+
+ADVANCED SCENARIOS (40% COVERAGE)
+--------------------------------
+Baloxavir 40.0% Treatment, 40.0% Prophylaxis:
+Total hospitalizations: 72.1 [68.6, 75.5]
+Percentage reduction: 31.2% [26.5%, 35.8%]
+Total treated patients: 5559.32
+Total prophylaxis patients: 2223.73
+
+Oseltamivir 40.0% Treatment, 40.0% Prophylaxis:
+Total hospitalizations: 89.0 [84.8, 93.4]
+Percentage reduction: 15.1% [8.9%, 21.3%]
+Total treated patients: 5515.09
+Total prophylaxis patients: 2206.03
+
+ULTRA SCENARIOS (50% COVERAGE)
+--------------------------------
+Baloxavir 50.0% Treatment, 50.0% Prophylaxis:
+Total hospitalizations: 62.6 [59.4, 65.8]
+Percentage reduction: 40.4% [36.2%, 44.4%]
+Total treated patients: 6752.05
+Total prophylaxis patients: 3376.02
+
+Oseltamivir 50.0% Treatment, 50.0% Prophylaxis:
+Total hospitalizations: 83.2 [79.1, 87.2]
+Percentage reduction: 20.7% [15.2%, 25.9%]
+Total treated patients: 6715.35
+Total prophylaxis patients: 3357.67
+
+TRANSMISSION PARAMETERS
+----------------------
+R0 (Pandemic Scenario - No Intervention): 3.3445
+RT (Pandemic Scenario - With 30% Intervention): 2.7906
+RT (Pandemic Scenario - With 40% Intervention): 2.4096
+RT (Pandemic Scenario - With 50% Intervention): 1.9543
+
+NOTES
+-----
+- Values represent total seasonal hospitalizations per 100,000 population
+- Square brackets show 95% confidence intervals
+- Percentage reduction is relative to baseline (Oseltamivir 7.3% treatment)
+- Total treated and prophylaxis values represent area under the curve
+- CDC data from 2017-2018 influenza season used for model validation
+- Baloxavir plots shown in blue, Oseltamivir plots shown in green
+- Line styles by scenario: Enhanced (solid), Advanced (dashed), Ultra (dotted)
