@@ -1,0 +1,62 @@
+=====================================================================
+INFLUENZA TREATMENT AND PROPHYLAXIS OUTCOMES - WITH PARAMETER UNCERTAINTY
+Date: 2025-05-12 12:47:49 (UTC)
+Analysis by: michaelsegzy
+=====================================================================
+
+UNCERTAINTY METHOD: Parameter uncertainty sampling
+Beta parameter range: [0.003060, 0.003740]
+Tau parameter range: [0.027140, 0.033171]
+Number of Monte Carlo samples: 1000
+
+BASELINE SCENARIO
+----------------
+Oseltamivir 7.3% Treatment, 0.0% Prophylaxis:
+Total hospitalizations: 104.7 [95.0, 115.1]
+
+ENHANCED SCENARIOS (30% COVERAGE)
+--------------------------------
+Baloxavir 30.0% Treatment, 30.0% Prophylaxis:
+Total hospitalizations: 81.7 [73.5, 89.7]
+Percentage reduction: 21.7% [9.5%, 33.2%]
+
+Oseltamivir 30.0% Treatment, 30.0% Prophylaxis:
+Total hospitalizations: 94.0 [85.0, 103.4]
+Percentage reduction: 10.0% [-4.5%, 23.6%]
+
+ADVANCED SCENARIOS (40% COVERAGE)
+--------------------------------
+Baloxavir 40.0% Treatment, 40.0% Prophylaxis:
+Total hospitalizations: 71.7 [64.8, 78.9]
+Percentage reduction: 31.4% [20.4%, 41.7%]
+
+Oseltamivir 40.0% Treatment, 40.0% Prophylaxis:
+Total hospitalizations: 88.9 [79.9, 97.5]
+Percentage reduction: 14.9% [1.6%, 27.1%]
+
+ULTRA SCENARIOS (50% COVERAGE)
+--------------------------------
+Baloxavir 50.0% Treatment, 50.0% Prophylaxis:
+Total hospitalizations: 62.5 [56.3, 68.9]
+Percentage reduction: 40.1% [31.2%, 48.9%]
+
+Oseltamivir 50.0% Treatment, 50.0% Prophylaxis:
+Total hospitalizations: 82.9 [74.3, 91.7]
+Percentage reduction: 20.6% [7.4%, 32.0%]
+
+TRANSMISSION PARAMETERS
+----------------------
+R0 (Pandemic Scenario - No Intervention): 3.3472
+RT (Pandemic Scenario - With 30% Intervention): 2.7897
+RT (Pandemic Scenario - With 40% Intervention): 2.4068
+RT (Pandemic Scenario - With 50% Intervention): 1.9505
+
+NOTES
+-----
+- Values represent total seasonal hospitalizations per 100,000 population
+- Square brackets show 95% confidence intervals
+- Percentage reduction is relative to baseline (Oseltamivir 7.3% treatment)
+- CDC data from 2017-2018 influenza season used for model validation
+- Baloxavir plots shown in blue, Oseltamivir plots shown in green
+- Line styles by scenario: Enhanced (solid), Advanced (dashed), Ultra (dotted)
+- UNCERTAINTY METHOD: Parameter uncertainty sampling rather than output noise
